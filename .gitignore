@@ -6,3 +6,5 @@
 yolov8n.pt
 #ignore the jpg files  
 *.jpg
+#ignore the ds_store files
+.DS_Store
